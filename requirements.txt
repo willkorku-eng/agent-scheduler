@@ -1,0 +1,10 @@
+fastapi==0.99.2
+uvicorn[standard]==0.22.0
+sqlalchemy==2.0.20
+psycopg2-binary==2.9.7
+pydantic==1.10.11
+ortools==9.7.10497
+python-multipart==0.0.6
+pandas==2.2.3
+celery==5.3.1
+redis==4.5.5

@@ -2,6 +2,7 @@
   "name": "scheduler-admin-ui",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://willkorku-eng.github.io/agent-scheduler",
   "scripts": {
     "start": "vite",
     "build": "vite build",

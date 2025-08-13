@@ -1,7 +1,7 @@
 import React, { useEffect, useState, useRef } from "react";
 import FullCalendar, { EventInput } from "@fullcalendar/react";
-import timeGridPlugin from "@fullcalendar/timegrid/main.css";
-import dayGridPlugin from "@fullcalendar/daygrid/main.css";
+import timeGridPlugin from "@fullcalendar/timegrid";
+import dayGridPlugin from "@fullcalendar/daygrid";
 import interactionPlugin from "@fullcalendar/interaction";
 import client from "../api";
 import dayjs from "dayjs";
